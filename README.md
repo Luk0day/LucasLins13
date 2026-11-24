@@ -3,14 +3,14 @@
 [![typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Lucas+Lins;I'm+a+systems+Analysis+and+Development+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasLins13&show_icons=true&count_private=true&hide_border=true&title_color=000080&icon_color=000080&text_color=FFFFFF&bg_color=0d1117" alt="Lucas Lins github stats" />
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLins13&layout=compact&hide_border=true&title_color=000080&text_color=FFFFFF&bg_color=0d1117"/>
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luk0day&show_icons=true&count_private=true&hide_border=true&title_color=000080&icon_color=000080&text_color=FFFFFF&bg_color=0d1117" alt="Lucas Lins github stats" />
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk0day&layout=compact&hide_border=true&title_color=000080&text_color=FFFFFF&bg_color=0d1117"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasLins13&bg_color=0d1117&color=000080&line=1e3b6f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luk0day&bg_color=0d1117&color=000080&line=1e3b6f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LucasLins13&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Luk0day&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">
